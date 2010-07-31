@@ -5,7 +5,7 @@
 
 Name:		horde-token
 Version:	0.0.4
-Release:	%mkrel 1
+Release:	%mkrel 2
 Summary:	Horde Token API
 License:	LGPL
 Group:		Networking/Mail
@@ -16,7 +16,6 @@ Requires(pre):  php-pear
 Requires:	horde-util
 BuildRequires:	php-pear
 BuildRequires:	php-pear-channel-horde
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 The Horde_Token:: class provides a common abstracted interface into the
