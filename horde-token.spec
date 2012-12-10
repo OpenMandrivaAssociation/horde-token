@@ -66,3 +66,16 @@ fi
 %{peardir}/Horde/Token/file.php
 %{peardir}/Horde/Token/sql.php
 
+
+
+%changelog
+* Sat Jul 31 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.4-2mdv2011.0
++ Revision: 564104
+- Increased release for rebuild
+
+* Mon Feb 15 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.4-1mdv2010.1
++ Revision: 506035
+- replaced PreReq with Requires(pre)
+- import horde-token
+
+
