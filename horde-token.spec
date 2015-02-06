@@ -5,7 +5,7 @@
 
 Name:		horde-token
 Version:	0.0.4
-Release:	%mkrel 2
+Release:	3
 Summary:	Horde Token API
 License:	LGPL
 Group:		Networking/Mail
